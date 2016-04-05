@@ -1,10 +1,13 @@
 # Strike A Match
 A fuzzy string matching algorithm in Go, as described at <http://www.catalysoft.com/articles/strikeamatch.html>
+
 ## Installation
 	$ go get github.com/ivanfoong/strikeamatch
+
 ## Unit Test
 	$ cd $GOPATH/src/github.com/ivanfoong/strikeamatch
 	$ go test
+
 ## Usage
 ```go
 package main
@@ -21,7 +24,9 @@ func main() {
   // prints `Web Database Applications with PHP & MySQL` compared to `Web Database Applications` has a score of 0.82
 }
 ```
+
 ## Changelog
 * 1.0.0 - Added CompareString method
+
 ## License
 MIT License
