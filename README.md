@@ -1,10 +1,10 @@
 # Strike A Match
 A fuzzy string matching algorithm in Go, as described at <http://www.catalysoft.com/articles/strikeamatch.html>
 ## Installation
-  $ go get github.com/ivanfoong/strikeamatch
+	$ go get github.com/ivanfoong/strikeamatch
 ## Unit Test
-  $ cd $GOPATH/src/github.com/ivanfoong/strikeamatch
-  $ go test
+	$ cd $GOPATH/src/github.com/ivanfoong/strikeamatch
+	$ go test
 ## Usage
 ```go
 package main
