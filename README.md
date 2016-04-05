@@ -9,6 +9,7 @@ A fuzzy string matching algorithm in Go, as described at <http://www.catalysoft.
 	$ go test
 
 ## Usage
+
 ```go
 package main
 
@@ -25,8 +26,8 @@ func main() {
 }
 ```
 
-## Changelog
-* 1.0.0 - Added CompareString method
-
 ## License
 MIT License
+
+## Changelog
+* 1.0.0 - Added CompareString method
