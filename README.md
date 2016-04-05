@@ -1,5 +1,5 @@
 # Strike A Match
-A fuzzy string matching algorithm as described at <http://www.catalysoft.com/articles/strikeamatch.html>
+A fuzzy string matching algorithm in Go, as described at <http://www.catalysoft.com/articles/strikeamatch.html>
 ## Installation
   $ go get github.com/ivanfoong/strikeamatch
 ## Unit Test
