@@ -2,7 +2,7 @@ package strikeamatch_test
 
 import (
   "testing"
-  "github.com/ivanfoong/strikeamatch"
+  "github.com/ivanfoong/strikeamatch-go/strikeamatch"
   "fmt"
 )
 

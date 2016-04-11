@@ -2,10 +2,10 @@
 A fuzzy string matching algorithm in Go, as described at <http://www.catalysoft.com/articles/strikeamatch.html>
 
 ## Installation
-	$ go get github.com/ivanfoong/strikeamatch
+	$ go get github.com/ivanfoong/strikeamatch-go
 
 ## Unit Test
-	$ cd $GOPATH/src/github.com/ivanfoong/strikeamatch
+	$ cd $GOPATH/src/github.com/ivanfoong/strikeamatch-go/strikeamatch
 	$ go test
 
 ## Usage
@@ -15,7 +15,7 @@ package main
 
 import (
   "fmt"
-  "github.com/ivanfoong/strikeamatch"
+  "github.com/ivanfoong/strikeamatch-go/strikeamatch"
 )
 
 func main() {
